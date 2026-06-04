@@ -1,0 +1,7 @@
+{
+  "/(auth)/login/page": "app/(auth)/login/page.js",
+  "/debug/page": "app/debug/page.js",
+  "/(dashboard)/dashboard/page": "app/(dashboard)/dashboard/page.js",
+  "/(dashboard)/universities/page": "app/(dashboard)/universities/page.js",
+  "/(dashboard)/students/page": "app/(dashboard)/students/page.js"
+}

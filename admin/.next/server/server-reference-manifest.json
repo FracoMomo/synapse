@@ -1,0 +1,45 @@
+{
+  "node": {
+    "40c33369c353dd1a749dad4259aadd93e66c29716f": {
+      "workers": {
+        "app/(dashboard)/universities/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CFranco%20Camoro%5C%5Csynapse%5C%5Cadmin%5C%5Capp%5C%5Cactions%5C%5Cuniversities.ts%22%2C%5B%7B%22id%22%3A%2240c33369c353dd1a749dad4259aadd93e66c29716f%22%2C%22exportedName%22%3A%22deleteUniversity%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CUsers%5C%5CFranco%20Camoro%5C%5Csynapse%5C%5Cadmin%5C%5Capp%5C%5Cactions%5C%5Cuniversities.ts%22%7D%2C%7B%22id%22%3A%22600408cb008fd994a9bf5db10faf5ea41cc26b6eba%22%2C%22exportedName%22%3A%22toggleUniversity%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CUsers%5C%5CFranco%20Camoro%5C%5Csynapse%5C%5Cadmin%5C%5Capp%5C%5Cactions%5C%5Cuniversities.ts%22%7D%2C%7B%22id%22%3A%22606a998dbc36509dbb043af7f7fb592614af3cac18%22%2C%22exportedName%22%3A%22addUniversity%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CUsers%5C%5CFranco%20Camoro%5C%5Csynapse%5C%5Cadmin%5C%5Capp%5C%5Cactions%5C%5Cuniversities.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(dashboard)/universities/page": "action-browser"
+      },
+      "filename": "../C:\\Users\\Franco Camoro\\synapse\\admin\\app\\actions\\universities.ts",
+      "exportedName": "deleteUniversity"
+    },
+    "606a998dbc36509dbb043af7f7fb592614af3cac18": {
+      "workers": {
+        "app/(dashboard)/universities/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CFranco%20Camoro%5C%5Csynapse%5C%5Cadmin%5C%5Capp%5C%5Cactions%5C%5Cuniversities.ts%22%2C%5B%7B%22id%22%3A%2240c33369c353dd1a749dad4259aadd93e66c29716f%22%2C%22exportedName%22%3A%22deleteUniversity%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CUsers%5C%5CFranco%20Camoro%5C%5Csynapse%5C%5Cadmin%5C%5Capp%5C%5Cactions%5C%5Cuniversities.ts%22%7D%2C%7B%22id%22%3A%22600408cb008fd994a9bf5db10faf5ea41cc26b6eba%22%2C%22exportedName%22%3A%22toggleUniversity%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CUsers%5C%5CFranco%20Camoro%5C%5Csynapse%5C%5Cadmin%5C%5Capp%5C%5Cactions%5C%5Cuniversities.ts%22%7D%2C%7B%22id%22%3A%22606a998dbc36509dbb043af7f7fb592614af3cac18%22%2C%22exportedName%22%3A%22addUniversity%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CUsers%5C%5CFranco%20Camoro%5C%5Csynapse%5C%5Cadmin%5C%5Capp%5C%5Cactions%5C%5Cuniversities.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(dashboard)/universities/page": "action-browser"
+      },
+      "filename": "../C:\\Users\\Franco Camoro\\synapse\\admin\\app\\actions\\universities.ts",
+      "exportedName": "addUniversity"
+    },
+    "600408cb008fd994a9bf5db10faf5ea41cc26b6eba": {
+      "workers": {
+        "app/(dashboard)/universities/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CFranco%20Camoro%5C%5Csynapse%5C%5Cadmin%5C%5Capp%5C%5Cactions%5C%5Cuniversities.ts%22%2C%5B%7B%22id%22%3A%2240c33369c353dd1a749dad4259aadd93e66c29716f%22%2C%22exportedName%22%3A%22deleteUniversity%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CUsers%5C%5CFranco%20Camoro%5C%5Csynapse%5C%5Cadmin%5C%5Capp%5C%5Cactions%5C%5Cuniversities.ts%22%7D%2C%7B%22id%22%3A%22600408cb008fd994a9bf5db10faf5ea41cc26b6eba%22%2C%22exportedName%22%3A%22toggleUniversity%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CUsers%5C%5CFranco%20Camoro%5C%5Csynapse%5C%5Cadmin%5C%5Capp%5C%5Cactions%5C%5Cuniversities.ts%22%7D%2C%7B%22id%22%3A%22606a998dbc36509dbb043af7f7fb592614af3cac18%22%2C%22exportedName%22%3A%22addUniversity%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CUsers%5C%5CFranco%20Camoro%5C%5Csynapse%5C%5Cadmin%5C%5Capp%5C%5Cactions%5C%5Cuniversities.ts%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(dashboard)/universities/page": "action-browser"
+      },
+      "filename": "../C:\\Users\\Franco Camoro\\synapse\\admin\\app\\actions\\universities.ts",
+      "exportedName": "toggleUniversity"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "qUZvsTtaGTTlw+f83pQu9tEAEIsLJYxtpwgw9yV+rwQ="
+}
